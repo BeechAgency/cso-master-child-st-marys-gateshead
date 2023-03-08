@@ -1,7 +1,7 @@
-St Paul's Catholic College, Booragul Theme
+ St Mary's Catholic College, Gateshead Theme
 ===
 
-CSO Master child theme for St Paul's Catholic College, Booragul. Changes the fonts, colours and school style of the site to be in line with the St Pauls' brand.
+CSO Master child theme for  St Mary's Catholic College, Gateshead. Changes the fonts, colours and school style of the site to be in line with the St Mary's brand.
 
 About
 ---------------
